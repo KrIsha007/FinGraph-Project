@@ -25,6 +25,7 @@ The goal is to detect complex money laundering syndicates that evade traditional
 - **Mid Review (20th–27th)** → Demo ingestion pipeline + optimized queries  
 - **Week 3 (19th–25th)** → Graph Data Science algorithms + dashboard integration  
 - **Week 4 (26th–4th next month)** → Alerts engine + UI polish  
+pip install -r requirements.txt
 
 ---
 
