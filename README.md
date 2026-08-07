@@ -32,4 +32,7 @@ pip install -r requirements.txt
 ## 🛠️ Setup Instructions
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/FinGraph-Project.git
+   git clone https://github.com/krisha007/FinGraph-Project.git
+
+pip install -r requirements.txt
+
