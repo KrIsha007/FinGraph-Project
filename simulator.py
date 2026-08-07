@@ -1,3 +1,8 @@
+python simulator.py
+pip install kafka-python
+python simulator.py
+
+
 import random
 import time
 from kafka import KafkaProducer
